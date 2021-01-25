@@ -8,7 +8,7 @@ medium household income, and immigrant status).
 _Why It's Important:_ 
 This research is extremly timely. Since the start of COVID, there has been a moratoria on water shutoffs, as issued by Governor Newsom. 
 This means that water customers cannot have their water shut off during the pandemic due to their inability to pay. In order to better assess the extent of water 
-bill debt, the California State Water Resources Control Board distriubted a survey in November to access the scale of unpaid deby across the state. As water systems 
+bill debt, the California State Water Resources Control Board distriubted a survey in November to access the scale of unpaid debt across the state. As water systems 
 become more strained under the weight of unpaid debt, the state will need to determine the extent of the debt in order to provide assistance and recovery
 after the pandemic is over and moratoria on water shutoffs are lifted. 
 
