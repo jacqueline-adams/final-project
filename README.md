@@ -24,7 +24,7 @@ _Sources:_
 * The third source will be watersystem borders, which will be overlayed on the state map (tentative)
     * Shapefiles of public watersystems statewide can be downloaded [here](https://gis.data.ca.gov/datasets/fbba842bf134497c9d611ad506ec48cc_0/data)
 
-**Note** *this is a dataset I've been working on as part of my Graduate Student Researcher position. I am going beyond an intiial analysis that was done for my 
+**Note** *this is a dataset I've been working on as part of my Graduate Student Researcher position. I am going beyond an intial analysis that was done for my 
 position, and implementing the spatial analysis compoent, thus, this is why the ACS data is already merged with the debt data*
 
 _Intended Analysis and Resulting Visualizations:_
