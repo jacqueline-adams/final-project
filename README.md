@@ -18,7 +18,7 @@ The analysis will help determine in what regions, localities, and demographic ar
 is distributed across the state will help policymakers allocate aid and target their resources to water systems or regions most impacted by bill debt. 
 
 _Sources:_
-* The first data source is from a survey of watersystem bill debt across California
+* The first data source is from a survey of water system bill debt across California
 * The second source is American Community Survey data that has already been linked with the above dataset 
     * The first and second sources can be found [here](https://docs.google.com/spreadsheets/d/1ZCphicQR2kfRqt1K4XvldysxqJtDpTMOyyKXZiv_s7k/edit?usp=sharing)
 * The third source will be watersystem borders, which will be overlayed on the state map (tentative)
