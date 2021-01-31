@@ -22,7 +22,7 @@ is distributed across the state will help policymakers allocate aid and target t
 _Sources:_
 * The first data source is from a survey of water system bill debt across California
 * The second source is American Community Survey data that has already been linked with the above dataset 
-    * The first and second sources can be found [here](https://docs.google.com/spreadsheets/d/1ZCphicQR2kfRqt1K4XvldysxqJtDpTMOyyKXZiv_s7k/edit?usp=sharing)
+    * The first and second sources can be found [here](https://docs.google.com/spreadsheets/d/1Z9cMLu8CDtocVbhaceNgG4_ackWw-eGe7QOsM_JiXm0/edit?usp=sharing)
 * The third source will be watersystem borders, which will be overlayed on the state map (tentative)
     * Shapefiles of public watersystems statewide can be downloaded [here](https://gis.data.ca.gov/datasets/fbba842bf134497c9d611ad506ec48cc_0/data)
     * **Edit**: I am keeping this dataset as a potential method of evaluation, but after talking with my research adviser, this dataset has already been used in
