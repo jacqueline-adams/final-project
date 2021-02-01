@@ -28,6 +28,7 @@ _Sources:_
     * **Edit**: I am keeping this dataset as a potential method of evaluation, but after talking with my research adviser, this dataset has already been used in
     a lot of analysis, so I will only use it if my analysis of COVID cases does not work. 
 * A fourth, new source of data I am planning on using is COVID cases, by county, as tracked by Harvard, which you can find [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HIDLTK)
+* I also added a dataset that outlines county borders in California (though, I might need to find a better dataset), you can find it [here](https://map.igismap.com/gis-data/united%20states-california/administrative_boundaries_level6_counties_polygon)
 
 **Note** *this is a dataset I've been working on as part of my Graduate Student Researcher position. I am going beyond an intial analysis that was done for my 
 position, and implementing the spatial analysis compoent, thus, this is why the ACS data is already merged with the debt data*
